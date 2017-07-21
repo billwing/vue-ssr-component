@@ -1,0 +1,11 @@
+{
+  "name": "vue-ssr-component",
+  "version": "2.0.0",
+  "license": "MIT",
+  "description": "A Vue SSR component template.",
+  "scripts": {
+  },
+  "devDependencies": {
+    "vue-cli": "^2.8.1"
+  }
+}
